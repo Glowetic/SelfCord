@@ -69,7 +69,7 @@ User_Id = config.get("User_Id")
 SERVER_Link = config.get("SERVER_Link")
 #===================================
 
-raj = commands.Bot(description='SELFBOT CREATED BY RAJ',
+raj = commands.Bot(description='SELFBOT CREATED BY Dropz',
                            command_prefix=prefix,
                            self_bot=True,
                            intents=intents)
@@ -360,7 +360,7 @@ async def help(ctx, helpcategory="none"):
 > <a:handjob:1327883313590964344> **NSFW SECTION** :- `.help nsfw`
 
 > <:Dynmap:1327690892588617760> **SET PREFIX** :- `.prefix <prefix>`
-> <:spider_senpai_crown:1327950868703875112> **DEVELOPER** :- `raj.only`
+> <:spider_senpai_crown:1327950868703875112> **DEVELOPER** :- `Dropz`
 """
 
     elif "config" in helpcategory:
@@ -1284,9 +1284,9 @@ async def selfbot(ctx):
     await ctx.send('''**SELFBOT DETAILS**
 - NAME > SELFCORD
 - VERSION > 4
-- DEVELOPER > `raj.only`
-- SUPPORT SERVER > https://discord.gg/rajstore
-- AUTOBUY LINK > https://raj.sellauth.com/''')
+- DEVELOPER > `Dropz`
+- SUPPORT SERVER > https://discord.gg/rTph8XbQQG
+- AUTOBUY LINK > ok''')
     await ctx.message.delete()
     print(f"{reset}[ {cyan}{time_rn}{reset} ] {gray}({green}+{gray}) {pretty}{Fore.GREEN}SELFBOT INFO✅ ")
     
