@@ -1,6 +1,6 @@
 # SELFBOT CODED BY ME (GLOWETIC) 
 WANT MORE LIKE THIS?
-
+if yall dont know what this is its anj bot for in ur dms
 [WEBSITE (UPDATED 2025](https://gloweticc.netlify.app/)
 
 
