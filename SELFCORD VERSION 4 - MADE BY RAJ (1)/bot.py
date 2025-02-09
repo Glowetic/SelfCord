@@ -103,7 +103,7 @@ async def on_ready():
             Colorate.Vertical(
                 Colors.green_to_yellow,
             f"""[=]-------------------------------------------------------------------------------------------[=]
-[  SELFCORD  VERSION  4  |  MADED  BY  :-  raj.only  |  LOGINED  AS  :-  {raj.user.name}  ]
+[  SELFCORD  VERSION  4  |  MADED  BY  :-  Dropz  |  LOGINED  AS  :-  {raj.user.name}  ]
 [=]-------------------------------------------------------------------------------------------[=]
 """,
                 1,
